@@ -1,0 +1,84 @@
+body{
+    font-family: 'Sansita Swashed', cursive;
+    background-color: teal;
+    background-image: url(aurora-1197753_1920.jpg);
+    background-size: auto;
+
+}
+img{
+    width: 100px;
+    padding-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.gui{
+    background: rgb(70,195,34);
+    background: linear-gradient(289deg, rgba(70,195,34,1) 0%, rgba(45,220,253,1) 100%);
+    width: 500px;
+    height: 770px;
+    margin: auto;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    text-align: center;
+
+}
+form{
+    padding-top: 8%;
+    padding-left: 10%;
+    padding-right: 14%;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+input{
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    outline-width: 2px;
+    outline-color:#46c322;
+    outline-style: hidden;
+    background: rgb(248, 248, 248);
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    
+  }
+.output{
+    padding-top: 4px;
+    padding-left: 10%;
+    padding-right: 16%;
+    margin-left: 50px;
+    margin-right: auto;
+   
+}
+
+button {
+    background-color: #0895d6;
+    color: white;
+    padding: 14px 20px;
+    margin: 4px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    outline-color: #46c322;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+  }
+
+  label{
+      text-align: center;
+      color: rgb(255, 255, 255);
+      
+  }
